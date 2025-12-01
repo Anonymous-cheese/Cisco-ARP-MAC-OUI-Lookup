@@ -112,14 +112,5 @@ Click **Export CSV** to save your results.
 
 ---
 
-##  Developer Notes
-
-- Processing is threaded to keep the UI responsive  
-- Sorting uses a natural interface sorting algorithm  
-- OUI database updates automatically and safely  
-- Code structure allows easy future expansions
-
----
-
 ## 📜 License  
 MIT License — feel free to use, modify, and contribute.
